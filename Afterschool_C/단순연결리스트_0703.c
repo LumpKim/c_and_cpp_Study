@@ -40,20 +40,20 @@ void print() {
 int del() {
 	if (head == NULL) {
 		system("cls");
-		puts("µ¥ÀÌÅÍ°¡ ¾ø½À´Ï´Ù.");
+		puts("ï¿½ï¿½ï¿½ï¿½ï¿½Í°ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½.");
 		system("pause");
 		return 0;
 	}
 	Node* p = head;
 	head = head->link;
 	system("cls");
-	printf("%d(ÀÌ)°¡ »èÁ¦µÇ¾ú½À´Ï´Ù.\n", p->data);
+	printf("%d(ï¿½ï¿½)ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ç¾ï¿½ï¿½ï¿½ï¿½Ï´ï¿½.\n", p->data);
 	system("pause");
 	free(p);
 	return 0;
 }
 
-void append2() { 		// ºñ±³ÇØ¼­ ¿À¸§Â÷¼øÀ¸·Î Á¤·ÄÇÏ´Â ÇÔ¼ö
+void append2() { 		// ï¿½ï¿½ï¿½Ø¼ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï´ï¿½ ï¿½Ô¼ï¿½
 
 	Node* newnode = (Node*)malloc(sizeof(Node));
 	int input;
@@ -86,11 +86,11 @@ int main() {
 
 	while (input != 0) {
 		system("cls");
-		printf("±â´ÉÀ» ¼±ÅÃÇÏ¼¼¿ä.\n");
-		printf("1. »ðÀÔ\n");
-		printf("2. ÇÁ¸°Æ®\n");
-		printf("3. »èÁ¦\n");
-		puts("0. Á¾·á");
+		printf("ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½.\n");
+		printf("1. ï¿½ï¿½ï¿½ï¿½\n");
+		printf("2. ï¿½ï¿½ï¿½ï¿½Æ®\n");
+		printf("3. ï¿½ï¿½ï¿½ï¿½\n");
+		puts("0. ï¿½ï¿½ï¿½ï¿½");
 		scanf_s("%d", &input);
 		switch (input) {
 		case 1: append2();	break;
