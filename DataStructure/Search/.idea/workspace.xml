@@ -12,11 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2702795-eb26-4a67-967e-cb751c9e1f01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AboutSearch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterpolationSearch.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearSearch.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpplab/cppstudy_1022_8-20.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpplab/cppstudy_1022_8-20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../cpplab/cppstudy_1022_8-20.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +26,7 @@
     <session id="988308728">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="2" />
@@ -232,16 +228,15 @@
       <option name="presentableId" value="Default" />
       <updated>1540355939049</updated>
       <workItem from="1540355941170" duration="503000" />
-      <workItem from="1540356481275" duration="5988000" />
+      <workItem from="1540356481275" duration="5999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6491000" />
+    <option name="totallyTimeSpent" value="6502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24603175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -249,7 +244,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32959184" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

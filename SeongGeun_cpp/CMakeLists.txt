@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
-project(examples C)
+project(SeongGeun_cpp)
 
-set(CMAKE_C_STANDARD 99)
+set(CMAKE_CXX_STANDARD 14)
 
-add_executable(SeongGeun_cpp cppstudy_1022_changedef.cpp)
+add_executable(SeongGeun_cpp cppstudy_1029_9-4.cpp)
