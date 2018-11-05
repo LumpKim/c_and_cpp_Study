@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="SeongGeun_cpp" targetName="SeongGeun_cpp" />
+      <config projectName="cpplab" targetName="cpplab" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -11,8 +11,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2271a951-b4ee-4d32-98da-c082d39a875e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="12d4d497-0404-41fc-910c-7515eed25f68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../OS/thread.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SeongGeun_cpp/cppstudy_1029_constuctor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Search/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cppstudy_1022_8-20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cppstudy_1022_8-20.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeongGeun_cpp/.idea/SeongGeun_cpp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SeongGeun_cpp/.idea/SeongGeun_cpp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeongGeun_cpp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SeongGeun_cpp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeongGeun_cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SeongGeun_cpp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SeongGeun_cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../SeongGeun_cpp/CMakeLists.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,39 +30,36 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FUSProjectUsageTrigger">
-    <session id="2055221888">
+    <session id="-417272432">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cpp" value="4" />
-          <entry key="txt" value="1" />
+          <entry key="cpp" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CMakeLists.txt" value="1" />
-          <entry key="ObjectiveC" value="4" />
+          <entry key="ObjectiveC" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="1517" />
-          <entry key="txt" value="108" />
+          <entry key="cpp" value="1045" />
+          <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CMakeLists.txt" value="3" />
-          <entry key="ObjectiveC" value="1517" />
-          <entry key="PLAIN_TEXT" value="105" />
+          <entry key="CMakeLists.txt" value="15" />
+          <entry key="ObjectiveC" value="1045" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.cidr.testingFrameworks.usages" />
@@ -64,47 +68,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cppstudy_1015_func.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cppstudy_1015_inline.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cppstudy_1029_constuctor.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cppstudy_1029_9-4.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="32" lean-forward="true" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+            <state>
+              <caret selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cppstudy_1022_8-11.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cppstudy_1022_8-19-20e.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cppstudy_1022_8-20.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -112,16 +112,15 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cppstudy_1015_func.cpp" />
-        <option value="$PROJECT_DIR$/cppstudy_1015_inline.cpp" />
+        <option value="$PROJECT_DIR$/cppstudy_1022_8-11.cpp" />
+        <option value="$PROJECT_DIR$/cppstudy_1022_8-19-20e.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/cppstudy_1029_constuctor.cpp" />
-        <option value="$PROJECT_DIR$/cppstudy_1029_9-4.cpp" />
+        <option value="$PROJECT_DIR$/cppstudy_1022_8-20.cpp" />
       </list>
     </option>
   </component>
@@ -146,8 +145,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="SeongGeun_cpp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeongGeun_cpp" type="462c0819:PsiDirectoryNode" />
+              <item name="cpplab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cpplab" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -157,10 +156,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,20 +171,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SeongGeun_cpp">
+  <component name="RunManager" selected="Application.cpplab">
     <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeongGeun_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SeongGeun_cpp" TARGET_NAME="SeongGeun_cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SeongGeun_cpp" RUN_TARGET_NAME="SeongGeun_cpp">
+    <configuration name="cpplab" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpplab" TARGET_NAME="cpplab" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpplab" RUN_TARGET_NAME="cpplab">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.SeongGeun_cpp" />
+      <item itemvalue="Application.cpplab" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -195,51 +192,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2271a951-b4ee-4d32-98da-c082d39a875e" name="Default Changelist" comment="" />
-      <created>1539578990785</created>
+      <changelist id="12d4d497-0404-41fc-910c-7515eed25f68" name="Default Changelist" comment="" />
+      <created>1540187307805</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539578990785</updated>
-      <workItem from="1539578991960" duration="1478000" />
-      <workItem from="1540188148897" duration="66000" />
-      <workItem from="1540795130493" duration="441000" />
-      <workItem from="1540796370061" duration="1071000" />
+      <updated>1540187307805</updated>
+      <workItem from="1540187309070" duration="837000" />
+      <workItem from="1540188346217" duration="1445000" />
+      <workItem from="1540795574285" duration="42000" />
+      <workItem from="1540796347512" duration="20000" />
     </task>
-    <task id="LOCAL-00001" summary="[UPDATE] 함수 호출의 사용 예시">
-      <created>1539579272496</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1539579272496</updated>
-    </task>
-    <task id="LOCAL-00002" summary="[UPDATE] inline 을 이용한 함수 선언">
-      <created>1539580476811</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1539580476811</updated>
-    </task>
-    <task id="LOCAL-00003" summary="생성자(constructor) 학습 및 간단한 예제 정리">
-      <created>1540800071826</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1540800071827</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3056000" />
+    <option name="totallyTimeSpent" value="2344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32959184" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
@@ -248,10 +221,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Messages" order="8" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="CMake" order="11" weight="0.30510205" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32959184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -264,45 +238,35 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="[UPDATE] 함수 호출의 사용 예시" />
-    <MESSAGE value="[UPDATE] inline 을 이용한 함수 선언" />
-    <MESSAGE value="생성자(constructor) 학습 및 간단한 예제 정리" />
-    <option name="LAST_COMMIT_MESSAGE" value="생성자(constructor) 학습 및 간단한 예제 정리" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cppstudy_1015_func.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cppstudy_1015_inline.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        <state>
+          <caret selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cppstudy_1029_constuctor.cpp">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cppstudy_1022_8-11.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        <state relative-caret-position="240">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cppstudy_1029_9-4.cpp">
+    <entry file="file://$PROJECT_DIR$/cppstudy_1022_8-19-20e.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="32" lean-forward="true" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        <state relative-caret-position="345">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cppstudy_1022_8-20.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
