@@ -3,4 +3,4 @@ project(SeongGeun_cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(SeongGeun_cpp cppstudy_1029_9-4.cpp)
+add_executable(SeongGeun_cpp cppstudy_1105_10-6.cpp)
