@@ -57,3 +57,27 @@ public:
         cout << "Letter C..." << endl;
     }
 };
+
+int main() {
+    Alphabet *letterArray[4];
+    Alphabet *Ptr;
+    int i, choice;
+    for (i=0; i < 4; i++) {
+        cout << "(0) ABC, (1) A, (2) B, (3) C : ";
+        cin >> choice;
+        switch(choice) {
+            case 0: Ptr = new Alphabet; break;
+            case 1: Ptr = new LetterA; break;
+            case 2: Ptr = new LetterB; break;
+            case 3: Ptr = new LetterC; break;
+            default: Ptr = new Alphabet;
+        }
+        letterArray[i] = Ptr;
+    }
+
+    for (i = 0; i < 4; i++) {
+        letterArray[i]->GetOrder();
+        letterArray[i]->Print();
+        delete letterArray[i];
+    }
+}
